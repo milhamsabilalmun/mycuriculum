@@ -1,2 +1,1 @@
-# mycuriculum
-tempat tugas 
+# simple-project
